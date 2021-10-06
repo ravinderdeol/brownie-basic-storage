@@ -7,6 +7,5 @@ def read_contract():
     grade_storage = GradeStorage[-1]
     print(grade_storage.readGrade())
 
-
 def main():
     read_contract
